@@ -48,6 +48,8 @@ I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="Git" width="40" height="40"/>&nbsp; 
 </div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Git" width="40" height="40"/>&nbsp; 
+</div>
 
 ---
 
