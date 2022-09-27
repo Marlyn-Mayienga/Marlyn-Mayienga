@@ -45,9 +45,7 @@ I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Git" width="40" height="40"/>&nbsp; 
-</div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="Git" width="40" height="40"/>&nbsp; 
-</div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Git" width="40" height="40"/>&nbsp; 
 </div>
 
