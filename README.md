@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
+I am a Technical Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
